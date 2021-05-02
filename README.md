@@ -20,7 +20,9 @@ Variant Interpretation Resources for Cancer Genomics
 
 ## Videos/Webinars
 [Clinical Interpretation of Variants in Cancer (CIViC) Knowledgebase](https://www.youtube.com/watch?v=F8NI6b2Xbx8)
+
 [Somatic variant calling and interpretation in the Pan-Cancer... - Lincoln Stein - VarI - ISMB 2020](https://www.youtube.com/watch?v=nPrHgWu0xhw)
+
 [Review of the ACMG/AMP variant interpretation guidelines](https://www.youtube.com/watch?v=38f1vtTGUJg)
 
 ## Courses
