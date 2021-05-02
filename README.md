@@ -1,4 +1,4 @@
-# Cancer_Genomic_Interpretation
+# Cancer Genomic Interpretation
 Variant Interpretation Resources for Cancer Genomics
 
 ## Papers
