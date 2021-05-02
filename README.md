@@ -18,6 +18,10 @@ Variant Interpretation Resources for Cancer Genomics
 
 [Points to consider for reporting of germline variation in patients undergoing tumor testing: a statement of the American College of Medical Genetics and Genomics (ACMG)](https://www.nature.com/articles/s41436-020-0783-8)
 
+## Videos/Webinars
+[Clinical Interpretation of Variants in Cancer (CIViC) Knowledgebase](https://www.youtube.com/watch?v=F8NI6b2Xbx8)
+[https://www.youtube.com/watch?v=nPrHgWu0xhw](https://www.youtube.com/watch?v=nPrHgWu0xhw)
+[Review of the ACMG/AMP variant interpretation guidelines](https://www.youtube.com/watch?v=38f1vtTGUJg)
 
 ## Courses
 [Genomic Data Visualization and Interpretation](https://genviz.org/) - A course with sections on genomic data interpretation put together from the Griffith lab.
