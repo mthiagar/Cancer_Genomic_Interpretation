@@ -3,9 +3,9 @@ Variant Interpretation Resources for Cancer Genomics
 
 ## Papers
 ### General
-[ACMG/AMP Guidelines](https://www.nature.com/articles/gim201530) - 2015 paper of American College of Molecular Geneticist, and Association for Molecular Pathology standards and guidelines for variant interpretation of mendelian disorders.
+[ACMG/AMP Guidelines](https://www.nature.com/articles/gim201530) - 2015 paper of American College of Molecular Geneticist, and Association for Molecular Pathology standards and guidelines for variant interpretation of mendelian disorders. This paper is mostly focused on germline, heritable disorders. However, it provides a general framework and covers important background for variant interpretation in general. 
 
-[AMP/ASCO/CAP Guidelines for Cancer Variants](https://www.sciencedirect.com/science/article/pii/S1525157816302239?via%3Dihub) - Association for Molecular Pathology, American Society of Clinical Oncology, and College of American Pathologists Standards and Guidelines for the Interpretation and Reporting of Sequence Variants in Cancer.
+[AMP/ASCO/CAP Guidelines for Cancer Variants](https://www.sciencedirect.com/science/article/pii/S1525157816302239?via%3Dihub) - Association for Molecular Pathology, American Society of Clinical Oncology, and College of American Pathologists Standards and Guidelines for the Interpretation and Reporting of Sequence Variants in Cancer. This paper includes guidelines for somatic variation and highlights important considerations and information for cancer specific mutations.
 
 ### Copy Number
 [Technical standards for the interpretation and reporting of constitutional copy-number variants: a joint consensus recommendation of the American College of Medical Genetics and Genomics (ACMG) and the Clinical Genome Resource (ClinGen)](https://www.nature.com/articles/s41436-019-0686-8)
