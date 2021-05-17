@@ -3,6 +3,11 @@ Variant Interpretation Resources for Cancer Genomics
 
 ### General Background and Concepts for Cancer Genomics
 [Hallmarks of Cancer: The Next Generation](https://www.cell.com/fulltext/S0092-8674(11)00127-9) - Important starting point for understanding Cancer at the molecular level. Highlights major aspects of cancer development and progression. 
+Lecture Videos from MIT Courses (free)
+* Cancer Lecture from MIT Intro Biology - Provides basic background on biology and goes through classic examples of tumor supressors, oncogene, and other cancer disease mechanisms. 
+  * [Lecture 1](https://www.youtube.com/watch?v=L4tEwAsVW0I)
+  * [Lecture 2](https://www.youtube.com/watch?v=6rOvXGoXoJc)
+* [Cancer Lecture from Machine Learning in Genomics: Dissecting the circuitry of Human Disease](https://www.youtube.com/watch?v=-svcoi18Udo) - Provides overview from insights from cancer informatics, and general concepts in current cancer genomics. 
 
 ## Papers
 ### Guidelines for Variant Interpretation
